@@ -1,0 +1,10 @@
+CREATE TABLE IF NOT EXISTS raw_ptax (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    moeda TEXT NOT NULL,
+    cotacao_compra REAL,
+    cotacao_venda REAL,
+    data_hora_cotacao TEXT,
+    tipo_boletim TEXT,
+    arquivo_origem TEXT NOT NULL,
+    data_carga TEXT NOT NULL
+);
