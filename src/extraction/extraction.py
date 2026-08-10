@@ -4,9 +4,11 @@ import pandas as pd
 import requests
 import logging
 
+# URL to search currency
 def url():
     return "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoMoedaPeriodo(moeda=@moeda,dataInicial=@dataInicial,dataFinalCotacao=@dataFinalCotacao)"
 
+# printing logs during the task
 def logs():
     agora = datetime.now()
 
@@ -26,6 +28,7 @@ def logs():
                         )
     return arquivo_log
 
+# Extracting wished currency since 2000's
 def extraction(moedas, arquivo_log):
     logger = logging.getLogger(__name__)
     
