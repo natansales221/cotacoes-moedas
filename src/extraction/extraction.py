@@ -13,17 +13,15 @@ URL = (
     "CotacaoMoedaPeriodo(moeda=@moeda,dataInicial=@dataInicial,dataFinalCotacao=@dataFinalCotacao)"
 )
 for moeda in moedas:
-    PARAMS = {
-                "@moeda": f"'{moeda}'",
-            }
     for ano in range(2000, ano_atual + 1):
-        PARAMS.update({
+        PARAMS = {
+            "@moeda": f"'{moeda}'",
             "@dataInicial": f"'01-01-{ano}'",
             "@dataFinalCotacao": f"'12-31-{ano}'",
             "$top": 10000,
             "$format": "json",
             "$select": "cotacaoCompra,cotacaoVenda,dataHoraCotacao,tipoBoletim"
-        })
+        }
 
         response = requests.get(URL, params=PARAMS, timeout=30)
         response.raise_for_status()
@@ -32,7 +30,7 @@ for moeda in moedas:
 
         df = pd.DataFrame(dados)
 
-        destino = Path(f"data/downloads/ptax/{moeda}")
+        destino = Path(f"data/downloads/ptax/teste/{moeda}")
         destino.mkdir(parents=True, exist_ok=True)
 
         arquivo = destino / f"ptax_{moeda}_{ano}.csv"
