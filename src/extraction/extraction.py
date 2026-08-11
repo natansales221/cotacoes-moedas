@@ -3,30 +3,11 @@ from datetime import datetime
 import pandas as pd
 import requests
 import logging
+from utils.utilidades import logs
 
 # URL to search currency
 def url():
     return "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoMoedaPeriodo(moeda=@moeda,dataInicial=@dataInicial,dataFinalCotacao=@dataFinalCotacao)"
-
-# printing logs during the task
-def logs():
-    agora = datetime.now()
-
-    data_execucao = agora.strftime("%Y-%m-%d")
-    hora_execucao = agora.strftime("%H%M%S")
-
-    pasta_logs = Path("logs") / data_execucao
-    pasta_logs.mkdir(parents=True, exist_ok=True)
-
-    arquivo_log = pasta_logs / f"extraction_{hora_execucao}.log"
-
-    logging.basicConfig(level=logging.INFO, format="%(asctime)s | %(levelname)s | %(message)s",
-                        handlers=[
-                            logging.FileHandler(arquivo_log, encoding="utf-8"),
-                            logging.StreamHandler()
-                            ]
-                        )
-    return arquivo_log
 
 # Extracting wished currency since 2000's
 def extraction(moedas, arquivo_log):
