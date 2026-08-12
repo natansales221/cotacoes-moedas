@@ -3,16 +3,16 @@ from datetime import datetime
 import pandas as pd
 import requests
 import logging
-from utils.utilidades import logs
+from src.utils.utilidades import logs
+
 
 class Extraction():
     # URL to search currency
-    @property
     def url():
         return "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoMoedaPeriodo(moeda=@moeda,dataInicial=@dataInicial,dataFinalCotacao=@dataFinalCotacao)"
 
     # Extracting wished currency since 2000's
-    def main(moedas, arquivo_log):
+    def main(self, moedas, arquivo_log):
         logger = logging.getLogger(__name__)
         
         logger.info("=" * 60)
@@ -60,8 +60,8 @@ class Extraction():
         logger.info("=" * 60)
     
 if __name__ == "__main__":
-    service=Extraction(True)
-    moedas = ["USD", "EUR", "GBP", "CHF", "JPY"]
+    service=Extraction()
+    lista_moedas = ["AUD", "CAD", "CHF", "DKK", "EUR", "GBP", "JPY", "NOK", "SEK", "USD"]
     arquivo = logs()
-    service.main(moedas=moedas, arquivo_log=arquivo)
+    service.main(moedas=lista_moedas, arquivo_log=arquivo)
     
