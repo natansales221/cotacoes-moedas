@@ -1,0 +1,1087 @@
+2026-08-10 18:00:51,473 | INFO | ============================================================
+2026-08-10 18:00:51,475 | INFO | INÍCIO DA EXTRAÇÃO PTAX
+2026-08-10 18:00:51,475 | INFO | Arquivo de log: logs\2026-08-10\extraction_180051.log
+2026-08-10 18:00:51,476 | INFO | ============================================================
+2026-08-10 18:00:51,476 | INFO | ============================================================
+2026-08-10 18:00:51,476 | INFO | Iniciando extração: moeda=USD, ano=2000
+2026-08-10 18:00:52,230 | INFO | Consulta feita com sucesso!
+2026-08-10 18:00:52,245 | INFO | Dataframe criado com sucesso
+2026-08-10 18:00:52,247 | INFO | Pasta criada com sucesso
+2026-08-10 18:00:52,275 | INFO | Extração concluída
+2026-08-10 18:00:52,275 | INFO | Foram extraídos 4250 registros
+2026-08-10 18:00:52,276 | INFO | ============================================================
+2026-08-10 18:00:52,276 | INFO | ============================================================
+2026-08-10 18:00:52,276 | INFO | Iniciando extração: moeda=USD, ano=2001
+2026-08-10 18:00:53,051 | INFO | Consulta feita com sucesso!
+2026-08-10 18:00:53,061 | INFO | Dataframe criado com sucesso
+2026-08-10 18:00:53,062 | INFO | Pasta criada com sucesso
+2026-08-10 18:00:53,076 | INFO | Extração concluída
+2026-08-10 18:00:53,076 | INFO | Foram extraídos 4091 registros
+2026-08-10 18:00:53,076 | INFO | ============================================================
+2026-08-10 18:00:53,076 | INFO | ============================================================
+2026-08-10 18:00:53,077 | INFO | Iniciando extração: moeda=USD, ano=2002
+2026-08-10 18:00:53,838 | INFO | Consulta feita com sucesso!
+2026-08-10 18:00:53,849 | INFO | Dataframe criado com sucesso
+2026-08-10 18:00:53,849 | INFO | Pasta criada com sucesso
+2026-08-10 18:00:53,864 | INFO | Extração concluída
+2026-08-10 18:00:53,865 | INFO | Foram extraídos 4029 registros
+2026-08-10 18:00:53,865 | INFO | ============================================================
+2026-08-10 18:00:53,865 | INFO | ============================================================
+2026-08-10 18:00:53,866 | INFO | Iniciando extração: moeda=USD, ano=2003
+2026-08-10 18:00:55,820 | INFO | Consulta feita com sucesso!
+2026-08-10 18:00:55,830 | INFO | Dataframe criado com sucesso
+2026-08-10 18:00:55,830 | INFO | Pasta criada com sucesso
+2026-08-10 18:00:55,850 | INFO | Extração concluída
+2026-08-10 18:00:55,851 | INFO | Foram extraídos 4025 registros
+2026-08-10 18:00:55,851 | INFO | ============================================================
+2026-08-10 18:00:55,851 | INFO | ============================================================
+2026-08-10 18:00:55,851 | INFO | Iniciando extração: moeda=USD, ano=2004
+2026-08-10 18:00:56,611 | INFO | Consulta feita com sucesso!
+2026-08-10 18:00:56,624 | INFO | Dataframe criado com sucesso
+2026-08-10 18:00:56,625 | INFO | Pasta criada com sucesso
+2026-08-10 18:00:56,641 | INFO | Extração concluída
+2026-08-10 18:00:56,641 | INFO | Foram extraídos 3864 registros
+2026-08-10 18:00:56,642 | INFO | ============================================================
+2026-08-10 18:00:56,642 | INFO | ============================================================
+2026-08-10 18:00:56,642 | INFO | Iniciando extração: moeda=USD, ano=2005
+2026-08-10 18:00:57,383 | INFO | Consulta feita com sucesso!
+2026-08-10 18:00:57,393 | INFO | Dataframe criado com sucesso
+2026-08-10 18:00:57,393 | INFO | Pasta criada com sucesso
+2026-08-10 18:00:57,407 | INFO | Extração concluída
+2026-08-10 18:00:57,407 | INFO | Foram extraídos 3631 registros
+2026-08-10 18:00:57,407 | INFO | ============================================================
+2026-08-10 18:00:57,408 | INFO | ============================================================
+2026-08-10 18:00:57,408 | INFO | Iniciando extração: moeda=USD, ano=2006
+2026-08-10 18:00:58,220 | INFO | Consulta feita com sucesso!
+2026-08-10 18:00:58,231 | INFO | Dataframe criado com sucesso
+2026-08-10 18:00:58,231 | INFO | Pasta criada com sucesso
+2026-08-10 18:00:58,246 | INFO | Extração concluída
+2026-08-10 18:00:58,246 | INFO | Foram extraídos 4128 registros
+2026-08-10 18:00:58,246 | INFO | ============================================================
+2026-08-10 18:00:58,247 | INFO | ============================================================
+2026-08-10 18:00:58,247 | INFO | Iniciando extração: moeda=USD, ano=2007
+2026-08-10 18:00:58,994 | INFO | Consulta feita com sucesso!
+2026-08-10 18:00:59,004 | INFO | Dataframe criado com sucesso
+2026-08-10 18:00:59,005 | INFO | Pasta criada com sucesso
+2026-08-10 18:00:59,018 | INFO | Extração concluída
+2026-08-10 18:00:59,018 | INFO | Foram extraídos 3685 registros
+2026-08-10 18:00:59,019 | INFO | ============================================================
+2026-08-10 18:00:59,019 | INFO | ============================================================
+2026-08-10 18:00:59,019 | INFO | Iniciando extração: moeda=USD, ano=2008
+2026-08-10 18:00:59,745 | INFO | Consulta feita com sucesso!
+2026-08-10 18:00:59,758 | INFO | Dataframe criado com sucesso
+2026-08-10 18:00:59,759 | INFO | Pasta criada com sucesso
+2026-08-10 18:00:59,776 | INFO | Extração concluída
+2026-08-10 18:00:59,777 | INFO | Foram extraídos 4292 registros
+2026-08-10 18:00:59,777 | INFO | ============================================================
+2026-08-10 18:00:59,777 | INFO | ============================================================
+2026-08-10 18:00:59,777 | INFO | Iniciando extração: moeda=USD, ano=2009
+2026-08-10 18:01:00,523 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:00,534 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:00,534 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:00,549 | INFO | Extração concluída
+2026-08-10 18:01:00,550 | INFO | Foram extraídos 4224 registros
+2026-08-10 18:01:00,550 | INFO | ============================================================
+2026-08-10 18:01:00,550 | INFO | ============================================================
+2026-08-10 18:01:00,550 | INFO | Iniciando extração: moeda=USD, ano=2010
+2026-08-10 18:01:01,273 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:01,283 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:01,284 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:01,300 | INFO | Extração concluída
+2026-08-10 18:01:01,300 | INFO | Foram extraídos 4210 registros
+2026-08-10 18:01:01,300 | INFO | ============================================================
+2026-08-10 18:01:01,300 | INFO | ============================================================
+2026-08-10 18:01:01,300 | INFO | Iniciando extração: moeda=USD, ano=2011
+2026-08-10 18:01:01,982 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:01,991 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:01,992 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:02,003 | INFO | Extração concluída
+2026-08-10 18:01:02,003 | INFO | Foram extraídos 2737 registros
+2026-08-10 18:01:02,003 | INFO | ============================================================
+2026-08-10 18:01:02,004 | INFO | ============================================================
+2026-08-10 18:01:02,004 | INFO | Iniciando extração: moeda=USD, ano=2012
+2026-08-10 18:01:02,668 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:02,672 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:02,673 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:02,679 | INFO | Extração concluída
+2026-08-10 18:01:02,680 | INFO | Foram extraídos 1250 registros
+2026-08-10 18:01:02,680 | INFO | ============================================================
+2026-08-10 18:01:02,680 | INFO | ============================================================
+2026-08-10 18:01:02,681 | INFO | Iniciando extração: moeda=USD, ano=2013
+2026-08-10 18:01:03,375 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:03,378 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:03,379 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:03,385 | INFO | Extração concluída
+2026-08-10 18:01:03,386 | INFO | Foram extraídos 1259 registros
+2026-08-10 18:01:03,386 | INFO | ============================================================
+2026-08-10 18:01:03,386 | INFO | ============================================================
+2026-08-10 18:01:03,386 | INFO | Iniciando extração: moeda=USD, ano=2014
+2026-08-10 18:01:04,038 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:04,042 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:04,043 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:04,049 | INFO | Extração concluída
+2026-08-10 18:01:04,049 | INFO | Foram extraídos 1254 registros
+2026-08-10 18:01:04,050 | INFO | ============================================================
+2026-08-10 18:01:04,050 | INFO | ============================================================
+2026-08-10 18:01:04,051 | INFO | Iniciando extração: moeda=USD, ano=2015
+2026-08-10 18:01:04,625 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:04,629 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:04,630 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:04,636 | INFO | Extração concluída
+2026-08-10 18:01:04,636 | INFO | Foram extraídos 1244 registros
+2026-08-10 18:01:04,637 | INFO | ============================================================
+2026-08-10 18:01:04,637 | INFO | ============================================================
+2026-08-10 18:01:04,637 | INFO | Iniciando extração: moeda=USD, ano=2016
+2026-08-10 18:01:05,252 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:05,256 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:05,257 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:05,263 | INFO | Extração concluída
+2026-08-10 18:01:05,264 | INFO | Foram extraídos 1253 registros
+2026-08-10 18:01:05,264 | INFO | ============================================================
+2026-08-10 18:01:05,264 | INFO | ============================================================
+2026-08-10 18:01:05,265 | INFO | Iniciando extração: moeda=USD, ano=2017
+2026-08-10 18:01:06,133 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:06,137 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:06,137 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:06,145 | INFO | Extração concluída
+2026-08-10 18:01:06,145 | INFO | Foram extraídos 1243 registros
+2026-08-10 18:01:06,145 | INFO | ============================================================
+2026-08-10 18:01:06,145 | INFO | ============================================================
+2026-08-10 18:01:06,145 | INFO | Iniciando extração: moeda=USD, ano=2018
+2026-08-10 18:01:06,752 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:06,756 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:06,756 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:06,762 | INFO | Extração concluída
+2026-08-10 18:01:06,763 | INFO | Foram extraídos 1244 registros
+2026-08-10 18:01:06,763 | INFO | ============================================================
+2026-08-10 18:01:06,763 | INFO | ============================================================
+2026-08-10 18:01:06,763 | INFO | Iniciando extração: moeda=USD, ano=2019
+2026-08-10 18:01:07,294 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:07,298 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:07,298 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:07,304 | INFO | Extração concluída
+2026-08-10 18:01:07,304 | INFO | Foram extraídos 1259 registros
+2026-08-10 18:01:07,304 | INFO | ============================================================
+2026-08-10 18:01:07,305 | INFO | ============================================================
+2026-08-10 18:01:07,305 | INFO | Iniciando extração: moeda=USD, ano=2020
+2026-08-10 18:01:07,819 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:07,823 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:07,824 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:07,833 | INFO | Extração concluída
+2026-08-10 18:01:07,833 | INFO | Foram extraídos 1248 registros
+2026-08-10 18:01:07,834 | INFO | ============================================================
+2026-08-10 18:01:07,834 | INFO | ============================================================
+2026-08-10 18:01:07,834 | INFO | Iniciando extração: moeda=USD, ano=2021
+2026-08-10 18:01:08,497 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:08,500 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:08,501 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:08,508 | INFO | Extração concluída
+2026-08-10 18:01:08,508 | INFO | Foram extraídos 1248 registros
+2026-08-10 18:01:08,508 | INFO | ============================================================
+2026-08-10 18:01:08,509 | INFO | ============================================================
+2026-08-10 18:01:08,509 | INFO | Iniciando extração: moeda=USD, ano=2022
+2026-08-10 18:01:09,148 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:09,151 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:09,152 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:09,157 | INFO | Extração concluída
+2026-08-10 18:01:09,157 | INFO | Foram extraídos 1250 registros
+2026-08-10 18:01:09,157 | INFO | ============================================================
+2026-08-10 18:01:09,157 | INFO | ============================================================
+2026-08-10 18:01:09,158 | INFO | Iniciando extração: moeda=USD, ano=2023
+2026-08-10 18:01:09,686 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:09,690 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:09,691 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:09,697 | INFO | Extração concluída
+2026-08-10 18:01:09,697 | INFO | Foram extraídos 1240 registros
+2026-08-10 18:01:09,697 | INFO | ============================================================
+2026-08-10 18:01:09,697 | INFO | ============================================================
+2026-08-10 18:01:09,698 | INFO | Iniciando extração: moeda=USD, ano=2024
+2026-08-10 18:01:10,369 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:10,373 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:10,374 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:10,380 | INFO | Extração concluída
+2026-08-10 18:01:10,381 | INFO | Foram extraídos 1258 registros
+2026-08-10 18:01:10,381 | INFO | ============================================================
+2026-08-10 18:01:10,381 | INFO | ============================================================
+2026-08-10 18:01:10,381 | INFO | Iniciando extração: moeda=USD, ano=2025
+2026-08-10 18:01:11,608 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:11,612 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:11,612 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:11,618 | INFO | Extração concluída
+2026-08-10 18:01:11,618 | INFO | Foram extraídos 1254 registros
+2026-08-10 18:01:11,619 | INFO | ============================================================
+2026-08-10 18:01:11,619 | INFO | ============================================================
+2026-08-10 18:01:11,619 | INFO | Iniciando extração: moeda=USD, ano=2026
+2026-08-10 18:01:12,299 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:12,302 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:12,303 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:12,307 | INFO | Extração concluída
+2026-08-10 18:01:12,307 | INFO | Foram extraídos 753 registros
+2026-08-10 18:01:12,307 | INFO | ============================================================
+2026-08-10 18:01:12,307 | INFO | ============================================================
+2026-08-10 18:01:12,307 | INFO | Iniciando extração: moeda=EUR, ano=2000
+2026-08-10 18:01:13,080 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:13,092 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:13,093 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:13,115 | INFO | Extração concluída
+2026-08-10 18:01:13,115 | INFO | Foram extraídos 4250 registros
+2026-08-10 18:01:13,115 | INFO | ============================================================
+2026-08-10 18:01:13,116 | INFO | ============================================================
+2026-08-10 18:01:13,116 | INFO | Iniciando extração: moeda=EUR, ano=2001
+2026-08-10 18:01:13,884 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:13,897 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:13,898 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:13,914 | INFO | Extração concluída
+2026-08-10 18:01:13,914 | INFO | Foram extraídos 4090 registros
+2026-08-10 18:01:13,915 | INFO | ============================================================
+2026-08-10 18:01:13,915 | INFO | ============================================================
+2026-08-10 18:01:13,915 | INFO | Iniciando extração: moeda=EUR, ano=2002
+2026-08-10 18:01:14,652 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:14,662 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:14,663 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:14,679 | INFO | Extração concluída
+2026-08-10 18:01:14,680 | INFO | Foram extraídos 4029 registros
+2026-08-10 18:01:14,680 | INFO | ============================================================
+2026-08-10 18:01:14,680 | INFO | ============================================================
+2026-08-10 18:01:14,680 | INFO | Iniciando extração: moeda=EUR, ano=2003
+2026-08-10 18:01:15,418 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:15,428 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:15,429 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:15,444 | INFO | Extração concluída
+2026-08-10 18:01:15,445 | INFO | Foram extraídos 4025 registros
+2026-08-10 18:01:15,445 | INFO | ============================================================
+2026-08-10 18:01:15,445 | INFO | ============================================================
+2026-08-10 18:01:15,445 | INFO | Iniciando extração: moeda=EUR, ano=2004
+2026-08-10 18:01:16,217 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:16,229 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:16,229 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:16,244 | INFO | Extração concluída
+2026-08-10 18:01:16,245 | INFO | Foram extraídos 3864 registros
+2026-08-10 18:01:16,245 | INFO | ============================================================
+2026-08-10 18:01:16,245 | INFO | ============================================================
+2026-08-10 18:01:16,245 | INFO | Iniciando extração: moeda=EUR, ano=2005
+2026-08-10 18:01:16,953 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:16,963 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:16,963 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:16,998 | INFO | Extração concluída
+2026-08-10 18:01:17,001 | INFO | Foram extraídos 3631 registros
+2026-08-10 18:01:17,002 | INFO | ============================================================
+2026-08-10 18:01:17,002 | INFO | ============================================================
+2026-08-10 18:01:17,002 | INFO | Iniciando extração: moeda=EUR, ano=2006
+2026-08-10 18:01:17,749 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:17,759 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:17,760 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:17,777 | INFO | Extração concluída
+2026-08-10 18:01:17,777 | INFO | Foram extraídos 4128 registros
+2026-08-10 18:01:17,777 | INFO | ============================================================
+2026-08-10 18:01:17,777 | INFO | ============================================================
+2026-08-10 18:01:17,777 | INFO | Iniciando extração: moeda=EUR, ano=2007
+2026-08-10 18:01:18,471 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:18,481 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:18,482 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:18,496 | INFO | Extração concluída
+2026-08-10 18:01:18,497 | INFO | Foram extraídos 3685 registros
+2026-08-10 18:01:18,497 | INFO | ============================================================
+2026-08-10 18:01:18,497 | INFO | ============================================================
+2026-08-10 18:01:18,497 | INFO | Iniciando extração: moeda=EUR, ano=2008
+2026-08-10 18:01:19,238 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:19,249 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:19,249 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:19,268 | INFO | Extração concluída
+2026-08-10 18:01:19,268 | INFO | Foram extraídos 4292 registros
+2026-08-10 18:01:19,269 | INFO | ============================================================
+2026-08-10 18:01:19,269 | INFO | ============================================================
+2026-08-10 18:01:19,269 | INFO | Iniciando extração: moeda=EUR, ano=2009
+2026-08-10 18:01:19,992 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:20,004 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:20,004 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:20,020 | INFO | Extração concluída
+2026-08-10 18:01:20,021 | INFO | Foram extraídos 4224 registros
+2026-08-10 18:01:20,021 | INFO | ============================================================
+2026-08-10 18:01:20,021 | INFO | ============================================================
+2026-08-10 18:01:20,021 | INFO | Iniciando extração: moeda=EUR, ano=2010
+2026-08-10 18:01:20,769 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:20,780 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:20,781 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:20,797 | INFO | Extração concluída
+2026-08-10 18:01:20,797 | INFO | Foram extraídos 4210 registros
+2026-08-10 18:01:20,798 | INFO | ============================================================
+2026-08-10 18:01:20,798 | INFO | ============================================================
+2026-08-10 18:01:20,798 | INFO | Iniciando extração: moeda=EUR, ano=2011
+2026-08-10 18:01:21,461 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:21,470 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:21,471 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:21,482 | INFO | Extração concluída
+2026-08-10 18:01:21,483 | INFO | Foram extraídos 2737 registros
+2026-08-10 18:01:21,483 | INFO | ============================================================
+2026-08-10 18:01:21,483 | INFO | ============================================================
+2026-08-10 18:01:21,484 | INFO | Iniciando extração: moeda=EUR, ano=2012
+2026-08-10 18:01:22,029 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:22,033 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:22,033 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:22,040 | INFO | Extração concluída
+2026-08-10 18:01:22,040 | INFO | Foram extraídos 1250 registros
+2026-08-10 18:01:22,041 | INFO | ============================================================
+2026-08-10 18:01:22,041 | INFO | ============================================================
+2026-08-10 18:01:22,041 | INFO | Iniciando extração: moeda=EUR, ano=2013
+2026-08-10 18:01:22,646 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:22,650 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:22,650 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:22,657 | INFO | Extração concluída
+2026-08-10 18:01:22,657 | INFO | Foram extraídos 1259 registros
+2026-08-10 18:01:22,658 | INFO | ============================================================
+2026-08-10 18:01:22,658 | INFO | ============================================================
+2026-08-10 18:01:22,658 | INFO | Iniciando extração: moeda=EUR, ano=2014
+2026-08-10 18:01:23,225 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:23,230 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:23,230 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:23,236 | INFO | Extração concluída
+2026-08-10 18:01:23,236 | INFO | Foram extraídos 1254 registros
+2026-08-10 18:01:23,236 | INFO | ============================================================
+2026-08-10 18:01:23,237 | INFO | ============================================================
+2026-08-10 18:01:23,237 | INFO | Iniciando extração: moeda=EUR, ano=2015
+2026-08-10 18:01:23,900 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:23,904 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:23,904 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:23,910 | INFO | Extração concluída
+2026-08-10 18:01:23,910 | INFO | Foram extraídos 1244 registros
+2026-08-10 18:01:23,911 | INFO | ============================================================
+2026-08-10 18:01:23,911 | INFO | ============================================================
+2026-08-10 18:01:23,911 | INFO | Iniciando extração: moeda=EUR, ano=2016
+2026-08-10 18:01:24,446 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:24,451 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:24,452 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:24,460 | INFO | Extração concluída
+2026-08-10 18:01:24,460 | INFO | Foram extraídos 1253 registros
+2026-08-10 18:01:24,460 | INFO | ============================================================
+2026-08-10 18:01:24,460 | INFO | ============================================================
+2026-08-10 18:01:24,461 | INFO | Iniciando extração: moeda=EUR, ano=2017
+2026-08-10 18:01:25,095 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:25,099 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:25,100 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:25,107 | INFO | Extração concluída
+2026-08-10 18:01:25,107 | INFO | Foram extraídos 1243 registros
+2026-08-10 18:01:25,107 | INFO | ============================================================
+2026-08-10 18:01:25,108 | INFO | ============================================================
+2026-08-10 18:01:25,108 | INFO | Iniciando extração: moeda=EUR, ano=2018
+2026-08-10 18:01:25,747 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:25,751 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:25,751 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:25,757 | INFO | Extração concluída
+2026-08-10 18:01:25,757 | INFO | Foram extraídos 1244 registros
+2026-08-10 18:01:25,758 | INFO | ============================================================
+2026-08-10 18:01:25,758 | INFO | ============================================================
+2026-08-10 18:01:25,758 | INFO | Iniciando extração: moeda=EUR, ano=2019
+2026-08-10 18:01:26,410 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:26,413 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:26,414 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:26,420 | INFO | Extração concluída
+2026-08-10 18:01:26,420 | INFO | Foram extraídos 1259 registros
+2026-08-10 18:01:26,420 | INFO | ============================================================
+2026-08-10 18:01:26,421 | INFO | ============================================================
+2026-08-10 18:01:26,421 | INFO | Iniciando extração: moeda=EUR, ano=2020
+2026-08-10 18:01:26,965 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:26,969 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:26,970 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:26,976 | INFO | Extração concluída
+2026-08-10 18:01:26,976 | INFO | Foram extraídos 1248 registros
+2026-08-10 18:01:26,976 | INFO | ============================================================
+2026-08-10 18:01:26,976 | INFO | ============================================================
+2026-08-10 18:01:26,977 | INFO | Iniciando extração: moeda=EUR, ano=2021
+2026-08-10 18:01:27,651 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:27,655 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:27,656 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:27,662 | INFO | Extração concluída
+2026-08-10 18:01:27,662 | INFO | Foram extraídos 1248 registros
+2026-08-10 18:01:27,662 | INFO | ============================================================
+2026-08-10 18:01:27,662 | INFO | ============================================================
+2026-08-10 18:01:27,662 | INFO | Iniciando extração: moeda=EUR, ano=2022
+2026-08-10 18:01:28,198 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:28,202 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:28,203 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:28,208 | INFO | Extração concluída
+2026-08-10 18:01:28,209 | INFO | Foram extraídos 1250 registros
+2026-08-10 18:01:28,209 | INFO | ============================================================
+2026-08-10 18:01:28,209 | INFO | ============================================================
+2026-08-10 18:01:28,209 | INFO | Iniciando extração: moeda=EUR, ano=2023
+2026-08-10 18:01:28,766 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:28,770 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:28,770 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:28,775 | INFO | Extração concluída
+2026-08-10 18:01:28,775 | INFO | Foram extraídos 1240 registros
+2026-08-10 18:01:28,775 | INFO | ============================================================
+2026-08-10 18:01:28,775 | INFO | ============================================================
+2026-08-10 18:01:28,776 | INFO | Iniciando extração: moeda=EUR, ano=2024
+2026-08-10 18:01:29,375 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:29,380 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:29,380 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:29,386 | INFO | Extração concluída
+2026-08-10 18:01:29,386 | INFO | Foram extraídos 1258 registros
+2026-08-10 18:01:29,386 | INFO | ============================================================
+2026-08-10 18:01:29,386 | INFO | ============================================================
+2026-08-10 18:01:29,387 | INFO | Iniciando extração: moeda=EUR, ano=2025
+2026-08-10 18:01:30,031 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:30,035 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:30,035 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:30,040 | INFO | Extração concluída
+2026-08-10 18:01:30,040 | INFO | Foram extraídos 1254 registros
+2026-08-10 18:01:30,040 | INFO | ============================================================
+2026-08-10 18:01:30,041 | INFO | ============================================================
+2026-08-10 18:01:30,041 | INFO | Iniciando extração: moeda=EUR, ano=2026
+2026-08-10 18:01:30,810 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:30,813 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:30,813 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:30,817 | INFO | Extração concluída
+2026-08-10 18:01:30,817 | INFO | Foram extraídos 753 registros
+2026-08-10 18:01:30,817 | INFO | ============================================================
+2026-08-10 18:01:30,818 | INFO | ============================================================
+2026-08-10 18:01:30,818 | INFO | Iniciando extração: moeda=GBP, ano=2000
+2026-08-10 18:01:31,632 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:31,644 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:31,645 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:31,662 | INFO | Extração concluída
+2026-08-10 18:01:31,662 | INFO | Foram extraídos 4250 registros
+2026-08-10 18:01:31,662 | INFO | ============================================================
+2026-08-10 18:01:31,662 | INFO | ============================================================
+2026-08-10 18:01:31,662 | INFO | Iniciando extração: moeda=GBP, ano=2001
+2026-08-10 18:01:32,381 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:32,394 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:32,394 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:32,410 | INFO | Extração concluída
+2026-08-10 18:01:32,410 | INFO | Foram extraídos 4090 registros
+2026-08-10 18:01:32,410 | INFO | ============================================================
+2026-08-10 18:01:32,410 | INFO | ============================================================
+2026-08-10 18:01:32,410 | INFO | Iniciando extração: moeda=GBP, ano=2002
+2026-08-10 18:01:33,165 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:33,176 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:33,177 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:33,193 | INFO | Extração concluída
+2026-08-10 18:01:33,194 | INFO | Foram extraídos 4029 registros
+2026-08-10 18:01:33,194 | INFO | ============================================================
+2026-08-10 18:01:33,194 | INFO | ============================================================
+2026-08-10 18:01:33,194 | INFO | Iniciando extração: moeda=GBP, ano=2003
+2026-08-10 18:01:33,940 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:33,951 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:33,951 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:33,967 | INFO | Extração concluída
+2026-08-10 18:01:33,967 | INFO | Foram extraídos 4025 registros
+2026-08-10 18:01:33,967 | INFO | ============================================================
+2026-08-10 18:01:33,967 | INFO | ============================================================
+2026-08-10 18:01:33,967 | INFO | Iniciando extração: moeda=GBP, ano=2004
+2026-08-10 18:01:34,669 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:34,679 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:34,680 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:34,697 | INFO | Extração concluída
+2026-08-10 18:01:34,697 | INFO | Foram extraídos 3864 registros
+2026-08-10 18:01:34,697 | INFO | ============================================================
+2026-08-10 18:01:34,697 | INFO | ============================================================
+2026-08-10 18:01:34,698 | INFO | Iniciando extração: moeda=GBP, ano=2005
+2026-08-10 18:01:35,427 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:35,438 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:35,438 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:35,452 | INFO | Extração concluída
+2026-08-10 18:01:35,453 | INFO | Foram extraídos 3631 registros
+2026-08-10 18:01:35,453 | INFO | ============================================================
+2026-08-10 18:01:35,453 | INFO | ============================================================
+2026-08-10 18:01:35,453 | INFO | Iniciando extração: moeda=GBP, ano=2006
+2026-08-10 18:01:36,205 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:36,216 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:36,217 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:36,233 | INFO | Extração concluída
+2026-08-10 18:01:36,233 | INFO | Foram extraídos 4128 registros
+2026-08-10 18:01:36,234 | INFO | ============================================================
+2026-08-10 18:01:36,234 | INFO | ============================================================
+2026-08-10 18:01:36,234 | INFO | Iniciando extração: moeda=GBP, ano=2007
+2026-08-10 18:01:36,949 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:36,960 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:36,960 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:36,975 | INFO | Extração concluída
+2026-08-10 18:01:36,976 | INFO | Foram extraídos 3685 registros
+2026-08-10 18:01:36,976 | INFO | ============================================================
+2026-08-10 18:01:36,976 | INFO | ============================================================
+2026-08-10 18:01:36,976 | INFO | Iniciando extração: moeda=GBP, ano=2008
+2026-08-10 18:01:37,809 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:37,820 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:37,821 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:37,837 | INFO | Extração concluída
+2026-08-10 18:01:37,837 | INFO | Foram extraídos 4292 registros
+2026-08-10 18:01:37,838 | INFO | ============================================================
+2026-08-10 18:01:37,838 | INFO | ============================================================
+2026-08-10 18:01:37,838 | INFO | Iniciando extração: moeda=GBP, ano=2009
+2026-08-10 18:01:38,589 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:38,601 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:38,602 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:38,618 | INFO | Extração concluída
+2026-08-10 18:01:38,619 | INFO | Foram extraídos 4224 registros
+2026-08-10 18:01:38,619 | INFO | ============================================================
+2026-08-10 18:01:38,619 | INFO | ============================================================
+2026-08-10 18:01:38,619 | INFO | Iniciando extração: moeda=GBP, ano=2010
+2026-08-10 18:01:39,380 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:39,392 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:39,393 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:39,410 | INFO | Extração concluída
+2026-08-10 18:01:39,410 | INFO | Foram extraídos 4210 registros
+2026-08-10 18:01:39,411 | INFO | ============================================================
+2026-08-10 18:01:39,411 | INFO | ============================================================
+2026-08-10 18:01:39,411 | INFO | Iniciando extração: moeda=GBP, ano=2011
+2026-08-10 18:01:40,152 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:40,160 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:40,160 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:40,172 | INFO | Extração concluída
+2026-08-10 18:01:40,173 | INFO | Foram extraídos 2737 registros
+2026-08-10 18:01:40,173 | INFO | ============================================================
+2026-08-10 18:01:40,173 | INFO | ============================================================
+2026-08-10 18:01:40,173 | INFO | Iniciando extração: moeda=GBP, ano=2012
+2026-08-10 18:01:40,779 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:40,783 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:40,783 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:40,789 | INFO | Extração concluída
+2026-08-10 18:01:40,789 | INFO | Foram extraídos 1250 registros
+2026-08-10 18:01:40,789 | INFO | ============================================================
+2026-08-10 18:01:40,789 | INFO | ============================================================
+2026-08-10 18:01:40,790 | INFO | Iniciando extração: moeda=GBP, ano=2013
+2026-08-10 18:01:41,408 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:41,412 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:41,413 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:41,420 | INFO | Extração concluída
+2026-08-10 18:01:41,421 | INFO | Foram extraídos 1259 registros
+2026-08-10 18:01:41,421 | INFO | ============================================================
+2026-08-10 18:01:41,421 | INFO | ============================================================
+2026-08-10 18:01:41,421 | INFO | Iniciando extração: moeda=GBP, ano=2014
+2026-08-10 18:01:42,036 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:42,040 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:42,040 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:42,046 | INFO | Extração concluída
+2026-08-10 18:01:42,046 | INFO | Foram extraídos 1254 registros
+2026-08-10 18:01:42,046 | INFO | ============================================================
+2026-08-10 18:01:42,047 | INFO | ============================================================
+2026-08-10 18:01:42,047 | INFO | Iniciando extração: moeda=GBP, ano=2015
+2026-08-10 18:01:42,592 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:42,596 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:42,597 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:42,602 | INFO | Extração concluída
+2026-08-10 18:01:42,602 | INFO | Foram extraídos 1244 registros
+2026-08-10 18:01:42,602 | INFO | ============================================================
+2026-08-10 18:01:42,603 | INFO | ============================================================
+2026-08-10 18:01:42,603 | INFO | Iniciando extração: moeda=GBP, ano=2016
+2026-08-10 18:01:43,211 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:43,215 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:43,215 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:43,222 | INFO | Extração concluída
+2026-08-10 18:01:43,222 | INFO | Foram extraídos 1253 registros
+2026-08-10 18:01:43,222 | INFO | ============================================================
+2026-08-10 18:01:43,223 | INFO | ============================================================
+2026-08-10 18:01:43,223 | INFO | Iniciando extração: moeda=GBP, ano=2017
+2026-08-10 18:01:43,850 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:43,854 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:43,855 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:43,861 | INFO | Extração concluída
+2026-08-10 18:01:43,861 | INFO | Foram extraídos 1243 registros
+2026-08-10 18:01:43,861 | INFO | ============================================================
+2026-08-10 18:01:43,861 | INFO | ============================================================
+2026-08-10 18:01:43,862 | INFO | Iniciando extração: moeda=GBP, ano=2018
+2026-08-10 18:01:44,517 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:44,521 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:44,521 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:44,527 | INFO | Extração concluída
+2026-08-10 18:01:44,528 | INFO | Foram extraídos 1244 registros
+2026-08-10 18:01:44,528 | INFO | ============================================================
+2026-08-10 18:01:44,528 | INFO | ============================================================
+2026-08-10 18:01:44,528 | INFO | Iniciando extração: moeda=GBP, ano=2019
+2026-08-10 18:01:45,128 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:45,131 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:45,132 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:45,138 | INFO | Extração concluída
+2026-08-10 18:01:45,139 | INFO | Foram extraídos 1259 registros
+2026-08-10 18:01:45,139 | INFO | ============================================================
+2026-08-10 18:01:45,139 | INFO | ============================================================
+2026-08-10 18:01:45,140 | INFO | Iniciando extração: moeda=GBP, ano=2020
+2026-08-10 18:01:45,687 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:45,690 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:45,690 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:45,696 | INFO | Extração concluída
+2026-08-10 18:01:45,696 | INFO | Foram extraídos 1248 registros
+2026-08-10 18:01:45,696 | INFO | ============================================================
+2026-08-10 18:01:45,696 | INFO | ============================================================
+2026-08-10 18:01:45,696 | INFO | Iniciando extração: moeda=GBP, ano=2021
+2026-08-10 18:01:46,301 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:46,304 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:46,305 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:46,311 | INFO | Extração concluída
+2026-08-10 18:01:46,311 | INFO | Foram extraídos 1248 registros
+2026-08-10 18:01:46,311 | INFO | ============================================================
+2026-08-10 18:01:46,311 | INFO | ============================================================
+2026-08-10 18:01:46,312 | INFO | Iniciando extração: moeda=GBP, ano=2022
+2026-08-10 18:01:46,896 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:46,900 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:46,901 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:46,907 | INFO | Extração concluída
+2026-08-10 18:01:46,907 | INFO | Foram extraídos 1250 registros
+2026-08-10 18:01:46,907 | INFO | ============================================================
+2026-08-10 18:01:46,908 | INFO | ============================================================
+2026-08-10 18:01:46,908 | INFO | Iniciando extração: moeda=GBP, ano=2023
+2026-08-10 18:01:47,496 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:47,501 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:47,502 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:47,508 | INFO | Extração concluída
+2026-08-10 18:01:47,508 | INFO | Foram extraídos 1240 registros
+2026-08-10 18:01:47,508 | INFO | ============================================================
+2026-08-10 18:01:47,508 | INFO | ============================================================
+2026-08-10 18:01:47,508 | INFO | Iniciando extração: moeda=GBP, ano=2024
+2026-08-10 18:01:48,121 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:48,124 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:48,125 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:48,132 | INFO | Extração concluída
+2026-08-10 18:01:48,132 | INFO | Foram extraídos 1258 registros
+2026-08-10 18:01:48,132 | INFO | ============================================================
+2026-08-10 18:01:48,132 | INFO | ============================================================
+2026-08-10 18:01:48,132 | INFO | Iniciando extração: moeda=GBP, ano=2025
+2026-08-10 18:01:48,754 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:48,759 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:48,759 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:48,765 | INFO | Extração concluída
+2026-08-10 18:01:48,765 | INFO | Foram extraídos 1254 registros
+2026-08-10 18:01:48,766 | INFO | ============================================================
+2026-08-10 18:01:48,766 | INFO | ============================================================
+2026-08-10 18:01:48,766 | INFO | Iniciando extração: moeda=GBP, ano=2026
+2026-08-10 18:01:49,336 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:49,339 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:49,340 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:49,344 | INFO | Extração concluída
+2026-08-10 18:01:49,344 | INFO | Foram extraídos 753 registros
+2026-08-10 18:01:49,344 | INFO | ============================================================
+2026-08-10 18:01:49,344 | INFO | ============================================================
+2026-08-10 18:01:49,344 | INFO | Iniciando extração: moeda=CHF, ano=2000
+2026-08-10 18:01:50,089 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:50,102 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:50,103 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:50,122 | INFO | Extração concluída
+2026-08-10 18:01:50,122 | INFO | Foram extraídos 4250 registros
+2026-08-10 18:01:50,122 | INFO | ============================================================
+2026-08-10 18:01:50,123 | INFO | ============================================================
+2026-08-10 18:01:50,123 | INFO | Iniciando extração: moeda=CHF, ano=2001
+2026-08-10 18:01:50,890 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:50,901 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:50,902 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:50,932 | INFO | Extração concluída
+2026-08-10 18:01:50,939 | INFO | Foram extraídos 4090 registros
+2026-08-10 18:01:50,941 | INFO | ============================================================
+2026-08-10 18:01:50,941 | INFO | ============================================================
+2026-08-10 18:01:50,942 | INFO | Iniciando extração: moeda=CHF, ano=2002
+2026-08-10 18:01:51,653 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:51,666 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:51,666 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:51,683 | INFO | Extração concluída
+2026-08-10 18:01:51,683 | INFO | Foram extraídos 4029 registros
+2026-08-10 18:01:51,683 | INFO | ============================================================
+2026-08-10 18:01:51,683 | INFO | ============================================================
+2026-08-10 18:01:51,684 | INFO | Iniciando extração: moeda=CHF, ano=2003
+2026-08-10 18:01:52,440 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:52,451 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:52,451 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:52,467 | INFO | Extração concluída
+2026-08-10 18:01:52,467 | INFO | Foram extraídos 4025 registros
+2026-08-10 18:01:52,467 | INFO | ============================================================
+2026-08-10 18:01:52,468 | INFO | ============================================================
+2026-08-10 18:01:52,468 | INFO | Iniciando extração: moeda=CHF, ano=2004
+2026-08-10 18:01:53,471 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:53,482 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:53,482 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:53,501 | INFO | Extração concluída
+2026-08-10 18:01:53,501 | INFO | Foram extraídos 3864 registros
+2026-08-10 18:01:53,502 | INFO | ============================================================
+2026-08-10 18:01:53,502 | INFO | ============================================================
+2026-08-10 18:01:53,502 | INFO | Iniciando extração: moeda=CHF, ano=2005
+2026-08-10 18:01:54,133 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:54,143 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:54,144 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:54,158 | INFO | Extração concluída
+2026-08-10 18:01:54,159 | INFO | Foram extraídos 3631 registros
+2026-08-10 18:01:54,159 | INFO | ============================================================
+2026-08-10 18:01:54,159 | INFO | ============================================================
+2026-08-10 18:01:54,159 | INFO | Iniciando extração: moeda=CHF, ano=2006
+2026-08-10 18:01:54,950 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:54,960 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:54,960 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:54,976 | INFO | Extração concluída
+2026-08-10 18:01:54,976 | INFO | Foram extraídos 4128 registros
+2026-08-10 18:01:54,977 | INFO | ============================================================
+2026-08-10 18:01:54,977 | INFO | ============================================================
+2026-08-10 18:01:54,977 | INFO | Iniciando extração: moeda=CHF, ano=2007
+2026-08-10 18:01:55,619 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:55,629 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:55,630 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:55,645 | INFO | Extração concluída
+2026-08-10 18:01:55,645 | INFO | Foram extraídos 3685 registros
+2026-08-10 18:01:55,645 | INFO | ============================================================
+2026-08-10 18:01:55,645 | INFO | ============================================================
+2026-08-10 18:01:55,646 | INFO | Iniciando extração: moeda=CHF, ano=2008
+2026-08-10 18:01:56,375 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:56,387 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:56,387 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:56,404 | INFO | Extração concluída
+2026-08-10 18:01:56,405 | INFO | Foram extraídos 4292 registros
+2026-08-10 18:01:56,405 | INFO | ============================================================
+2026-08-10 18:01:56,405 | INFO | ============================================================
+2026-08-10 18:01:56,405 | INFO | Iniciando extração: moeda=CHF, ano=2009
+2026-08-10 18:01:57,206 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:57,218 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:57,219 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:57,236 | INFO | Extração concluída
+2026-08-10 18:01:57,236 | INFO | Foram extraídos 4224 registros
+2026-08-10 18:01:57,236 | INFO | ============================================================
+2026-08-10 18:01:57,237 | INFO | ============================================================
+2026-08-10 18:01:57,237 | INFO | Iniciando extração: moeda=CHF, ano=2010
+2026-08-10 18:01:57,971 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:57,984 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:57,984 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:58,003 | INFO | Extração concluída
+2026-08-10 18:01:58,004 | INFO | Foram extraídos 4210 registros
+2026-08-10 18:01:58,004 | INFO | ============================================================
+2026-08-10 18:01:58,004 | INFO | ============================================================
+2026-08-10 18:01:58,004 | INFO | Iniciando extração: moeda=CHF, ano=2011
+2026-08-10 18:01:58,687 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:58,723 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:58,723 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:58,734 | INFO | Extração concluída
+2026-08-10 18:01:58,734 | INFO | Foram extraídos 2737 registros
+2026-08-10 18:01:58,734 | INFO | ============================================================
+2026-08-10 18:01:58,734 | INFO | ============================================================
+2026-08-10 18:01:58,735 | INFO | Iniciando extração: moeda=CHF, ano=2012
+2026-08-10 18:01:59,313 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:59,318 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:59,318 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:59,323 | INFO | Extração concluída
+2026-08-10 18:01:59,323 | INFO | Foram extraídos 1250 registros
+2026-08-10 18:01:59,323 | INFO | ============================================================
+2026-08-10 18:01:59,323 | INFO | ============================================================
+2026-08-10 18:01:59,324 | INFO | Iniciando extração: moeda=CHF, ano=2013
+2026-08-10 18:01:59,938 | INFO | Consulta feita com sucesso!
+2026-08-10 18:01:59,942 | INFO | Dataframe criado com sucesso
+2026-08-10 18:01:59,943 | INFO | Pasta criada com sucesso
+2026-08-10 18:01:59,949 | INFO | Extração concluída
+2026-08-10 18:01:59,949 | INFO | Foram extraídos 1259 registros
+2026-08-10 18:01:59,949 | INFO | ============================================================
+2026-08-10 18:01:59,949 | INFO | ============================================================
+2026-08-10 18:01:59,949 | INFO | Iniciando extração: moeda=CHF, ano=2014
+2026-08-10 18:02:00,551 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:00,555 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:00,556 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:00,561 | INFO | Extração concluída
+2026-08-10 18:02:00,561 | INFO | Foram extraídos 1254 registros
+2026-08-10 18:02:00,561 | INFO | ============================================================
+2026-08-10 18:02:00,561 | INFO | ============================================================
+2026-08-10 18:02:00,561 | INFO | Iniciando extração: moeda=CHF, ano=2015
+2026-08-10 18:02:01,155 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:01,159 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:01,159 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:01,165 | INFO | Extração concluída
+2026-08-10 18:02:01,165 | INFO | Foram extraídos 1244 registros
+2026-08-10 18:02:01,165 | INFO | ============================================================
+2026-08-10 18:02:01,165 | INFO | ============================================================
+2026-08-10 18:02:01,165 | INFO | Iniciando extração: moeda=CHF, ano=2016
+2026-08-10 18:02:01,730 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:01,734 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:01,734 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:01,740 | INFO | Extração concluída
+2026-08-10 18:02:01,740 | INFO | Foram extraídos 1253 registros
+2026-08-10 18:02:01,740 | INFO | ============================================================
+2026-08-10 18:02:01,740 | INFO | ============================================================
+2026-08-10 18:02:01,741 | INFO | Iniciando extração: moeda=CHF, ano=2017
+2026-08-10 18:02:02,352 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:02,356 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:02,357 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:02,363 | INFO | Extração concluída
+2026-08-10 18:02:02,363 | INFO | Foram extraídos 1243 registros
+2026-08-10 18:02:02,363 | INFO | ============================================================
+2026-08-10 18:02:02,364 | INFO | ============================================================
+2026-08-10 18:02:02,364 | INFO | Iniciando extração: moeda=CHF, ano=2018
+2026-08-10 18:02:02,979 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:02,982 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:02,983 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:02,988 | INFO | Extração concluída
+2026-08-10 18:02:02,988 | INFO | Foram extraídos 1244 registros
+2026-08-10 18:02:02,988 | INFO | ============================================================
+2026-08-10 18:02:02,988 | INFO | ============================================================
+2026-08-10 18:02:02,988 | INFO | Iniciando extração: moeda=CHF, ano=2019
+2026-08-10 18:02:03,574 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:03,578 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:03,579 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:03,585 | INFO | Extração concluída
+2026-08-10 18:02:03,586 | INFO | Foram extraídos 1259 registros
+2026-08-10 18:02:03,586 | INFO | ============================================================
+2026-08-10 18:02:03,586 | INFO | ============================================================
+2026-08-10 18:02:03,586 | INFO | Iniciando extração: moeda=CHF, ano=2020
+2026-08-10 18:02:04,174 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:04,177 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:04,178 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:04,184 | INFO | Extração concluída
+2026-08-10 18:02:04,184 | INFO | Foram extraídos 1248 registros
+2026-08-10 18:02:04,184 | INFO | ============================================================
+2026-08-10 18:02:04,185 | INFO | ============================================================
+2026-08-10 18:02:04,185 | INFO | Iniciando extração: moeda=CHF, ano=2021
+2026-08-10 18:02:04,903 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:04,907 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:04,907 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:04,912 | INFO | Extração concluída
+2026-08-10 18:02:04,912 | INFO | Foram extraídos 1248 registros
+2026-08-10 18:02:04,912 | INFO | ============================================================
+2026-08-10 18:02:04,912 | INFO | ============================================================
+2026-08-10 18:02:04,913 | INFO | Iniciando extração: moeda=CHF, ano=2022
+2026-08-10 18:02:05,492 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:05,496 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:05,497 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:05,503 | INFO | Extração concluída
+2026-08-10 18:02:05,504 | INFO | Foram extraídos 1250 registros
+2026-08-10 18:02:05,504 | INFO | ============================================================
+2026-08-10 18:02:05,504 | INFO | ============================================================
+2026-08-10 18:02:05,504 | INFO | Iniciando extração: moeda=CHF, ano=2023
+2026-08-10 18:02:06,117 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:06,121 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:06,121 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:06,127 | INFO | Extração concluída
+2026-08-10 18:02:06,127 | INFO | Foram extraídos 1240 registros
+2026-08-10 18:02:06,127 | INFO | ============================================================
+2026-08-10 18:02:06,127 | INFO | ============================================================
+2026-08-10 18:02:06,128 | INFO | Iniciando extração: moeda=CHF, ano=2024
+2026-08-10 18:02:06,712 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:06,716 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:06,717 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:06,721 | INFO | Extração concluída
+2026-08-10 18:02:06,722 | INFO | Foram extraídos 1258 registros
+2026-08-10 18:02:06,722 | INFO | ============================================================
+2026-08-10 18:02:06,722 | INFO | ============================================================
+2026-08-10 18:02:06,722 | INFO | Iniciando extração: moeda=CHF, ano=2025
+2026-08-10 18:02:07,299 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:07,303 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:07,303 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:07,310 | INFO | Extração concluída
+2026-08-10 18:02:07,310 | INFO | Foram extraídos 1254 registros
+2026-08-10 18:02:07,310 | INFO | ============================================================
+2026-08-10 18:02:07,310 | INFO | ============================================================
+2026-08-10 18:02:07,310 | INFO | Iniciando extração: moeda=CHF, ano=2026
+2026-08-10 18:02:07,878 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:07,881 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:07,882 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:07,886 | INFO | Extração concluída
+2026-08-10 18:02:07,886 | INFO | Foram extraídos 753 registros
+2026-08-10 18:02:07,886 | INFO | ============================================================
+2026-08-10 18:02:07,886 | INFO | ============================================================
+2026-08-10 18:02:07,886 | INFO | Iniciando extração: moeda=JPY, ano=2000
+2026-08-10 18:02:08,646 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:08,656 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:08,657 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:08,674 | INFO | Extração concluída
+2026-08-10 18:02:08,675 | INFO | Foram extraídos 4250 registros
+2026-08-10 18:02:08,675 | INFO | ============================================================
+2026-08-10 18:02:08,675 | INFO | ============================================================
+2026-08-10 18:02:08,675 | INFO | Iniciando extração: moeda=JPY, ano=2001
+2026-08-10 18:02:09,439 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:09,449 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:09,450 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:09,467 | INFO | Extração concluída
+2026-08-10 18:02:09,467 | INFO | Foram extraídos 4090 registros
+2026-08-10 18:02:09,467 | INFO | ============================================================
+2026-08-10 18:02:09,467 | INFO | ============================================================
+2026-08-10 18:02:09,468 | INFO | Iniciando extração: moeda=JPY, ano=2002
+2026-08-10 18:02:10,232 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:10,242 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:10,242 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:10,257 | INFO | Extração concluída
+2026-08-10 18:02:10,257 | INFO | Foram extraídos 4029 registros
+2026-08-10 18:02:10,257 | INFO | ============================================================
+2026-08-10 18:02:10,257 | INFO | ============================================================
+2026-08-10 18:02:10,258 | INFO | Iniciando extração: moeda=JPY, ano=2003
+2026-08-10 18:02:12,022 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:12,034 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:12,034 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:12,050 | INFO | Extração concluída
+2026-08-10 18:02:12,050 | INFO | Foram extraídos 4025 registros
+2026-08-10 18:02:12,051 | INFO | ============================================================
+2026-08-10 18:02:12,051 | INFO | ============================================================
+2026-08-10 18:02:12,051 | INFO | Iniciando extração: moeda=JPY, ano=2004
+2026-08-10 18:02:12,854 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:12,865 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:12,865 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:12,884 | INFO | Extração concluída
+2026-08-10 18:02:12,884 | INFO | Foram extraídos 3864 registros
+2026-08-10 18:02:12,884 | INFO | ============================================================
+2026-08-10 18:02:12,884 | INFO | ============================================================
+2026-08-10 18:02:12,884 | INFO | Iniciando extração: moeda=JPY, ano=2005
+2026-08-10 18:02:13,528 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:13,538 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:13,539 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:13,552 | INFO | Extração concluída
+2026-08-10 18:02:13,552 | INFO | Foram extraídos 3631 registros
+2026-08-10 18:02:13,552 | INFO | ============================================================
+2026-08-10 18:02:13,553 | INFO | ============================================================
+2026-08-10 18:02:13,553 | INFO | Iniciando extração: moeda=JPY, ano=2006
+2026-08-10 18:02:14,217 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:14,228 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:14,228 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:14,245 | INFO | Extração concluída
+2026-08-10 18:02:14,245 | INFO | Foram extraídos 4128 registros
+2026-08-10 18:02:14,245 | INFO | ============================================================
+2026-08-10 18:02:14,245 | INFO | ============================================================
+2026-08-10 18:02:14,246 | INFO | Iniciando extração: moeda=JPY, ano=2007
+2026-08-10 18:02:14,955 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:14,966 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:14,966 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:14,980 | INFO | Extração concluída
+2026-08-10 18:02:14,981 | INFO | Foram extraídos 3685 registros
+2026-08-10 18:02:14,981 | INFO | ============================================================
+2026-08-10 18:02:14,981 | INFO | ============================================================
+2026-08-10 18:02:14,981 | INFO | Iniciando extração: moeda=JPY, ano=2008
+2026-08-10 18:02:15,696 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:15,708 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:15,709 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:15,725 | INFO | Extração concluída
+2026-08-10 18:02:15,725 | INFO | Foram extraídos 4292 registros
+2026-08-10 18:02:15,726 | INFO | ============================================================
+2026-08-10 18:02:15,726 | INFO | ============================================================
+2026-08-10 18:02:15,726 | INFO | Iniciando extração: moeda=JPY, ano=2009
+2026-08-10 18:02:16,559 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:16,571 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:16,572 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:16,588 | INFO | Extração concluída
+2026-08-10 18:02:16,588 | INFO | Foram extraídos 4224 registros
+2026-08-10 18:02:16,589 | INFO | ============================================================
+2026-08-10 18:02:16,589 | INFO | ============================================================
+2026-08-10 18:02:16,589 | INFO | Iniciando extração: moeda=JPY, ano=2010
+2026-08-10 18:02:17,324 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:17,335 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:17,336 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:17,352 | INFO | Extração concluída
+2026-08-10 18:02:17,352 | INFO | Foram extraídos 4210 registros
+2026-08-10 18:02:17,353 | INFO | ============================================================
+2026-08-10 18:02:17,353 | INFO | ============================================================
+2026-08-10 18:02:17,353 | INFO | Iniciando extração: moeda=JPY, ano=2011
+2026-08-10 18:02:17,982 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:17,991 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:17,992 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:18,003 | INFO | Extração concluída
+2026-08-10 18:02:18,003 | INFO | Foram extraídos 2737 registros
+2026-08-10 18:02:18,003 | INFO | ============================================================
+2026-08-10 18:02:18,004 | INFO | ============================================================
+2026-08-10 18:02:18,004 | INFO | Iniciando extração: moeda=JPY, ano=2012
+2026-08-10 18:02:18,612 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:18,616 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:18,616 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:18,622 | INFO | Extração concluída
+2026-08-10 18:02:18,622 | INFO | Foram extraídos 1250 registros
+2026-08-10 18:02:18,622 | INFO | ============================================================
+2026-08-10 18:02:18,623 | INFO | ============================================================
+2026-08-10 18:02:18,623 | INFO | Iniciando extração: moeda=JPY, ano=2013
+2026-08-10 18:02:19,213 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:19,217 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:19,218 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:19,225 | INFO | Extração concluída
+2026-08-10 18:02:19,225 | INFO | Foram extraídos 1259 registros
+2026-08-10 18:02:19,226 | INFO | ============================================================
+2026-08-10 18:02:19,226 | INFO | ============================================================
+2026-08-10 18:02:19,226 | INFO | Iniciando extração: moeda=JPY, ano=2014
+2026-08-10 18:02:19,807 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:19,811 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:19,812 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:19,818 | INFO | Extração concluída
+2026-08-10 18:02:19,819 | INFO | Foram extraídos 1254 registros
+2026-08-10 18:02:19,819 | INFO | ============================================================
+2026-08-10 18:02:19,819 | INFO | ============================================================
+2026-08-10 18:02:19,819 | INFO | Iniciando extração: moeda=JPY, ano=2015
+2026-08-10 18:02:20,400 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:20,404 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:20,404 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:20,411 | INFO | Extração concluída
+2026-08-10 18:02:20,411 | INFO | Foram extraídos 1244 registros
+2026-08-10 18:02:20,412 | INFO | ============================================================
+2026-08-10 18:02:20,412 | INFO | ============================================================
+2026-08-10 18:02:20,412 | INFO | Iniciando extração: moeda=JPY, ano=2016
+2026-08-10 18:02:20,994 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:20,998 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:20,999 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:21,006 | INFO | Extração concluída
+2026-08-10 18:02:21,006 | INFO | Foram extraídos 1253 registros
+2026-08-10 18:02:21,007 | INFO | ============================================================
+2026-08-10 18:02:21,007 | INFO | ============================================================
+2026-08-10 18:02:21,007 | INFO | Iniciando extração: moeda=JPY, ano=2017
+2026-08-10 18:02:21,714 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:21,717 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:21,718 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:21,724 | INFO | Extração concluída
+2026-08-10 18:02:21,724 | INFO | Foram extraídos 1243 registros
+2026-08-10 18:02:21,724 | INFO | ============================================================
+2026-08-10 18:02:21,724 | INFO | ============================================================
+2026-08-10 18:02:21,725 | INFO | Iniciando extração: moeda=JPY, ano=2018
+2026-08-10 18:02:22,326 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:22,330 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:22,330 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:22,336 | INFO | Extração concluída
+2026-08-10 18:02:22,336 | INFO | Foram extraídos 1244 registros
+2026-08-10 18:02:22,337 | INFO | ============================================================
+2026-08-10 18:02:22,337 | INFO | ============================================================
+2026-08-10 18:02:22,337 | INFO | Iniciando extração: moeda=JPY, ano=2019
+2026-08-10 18:02:22,940 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:22,944 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:22,945 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:22,951 | INFO | Extração concluída
+2026-08-10 18:02:22,951 | INFO | Foram extraídos 1259 registros
+2026-08-10 18:02:22,952 | INFO | ============================================================
+2026-08-10 18:02:22,952 | INFO | ============================================================
+2026-08-10 18:02:22,952 | INFO | Iniciando extração: moeda=JPY, ano=2020
+2026-08-10 18:02:23,557 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:23,561 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:23,561 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:23,567 | INFO | Extração concluída
+2026-08-10 18:02:23,567 | INFO | Foram extraídos 1248 registros
+2026-08-10 18:02:23,567 | INFO | ============================================================
+2026-08-10 18:02:23,567 | INFO | ============================================================
+2026-08-10 18:02:23,568 | INFO | Iniciando extração: moeda=JPY, ano=2021
+2026-08-10 18:02:24,155 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:24,160 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:24,161 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:24,168 | INFO | Extração concluída
+2026-08-10 18:02:24,168 | INFO | Foram extraídos 1248 registros
+2026-08-10 18:02:24,168 | INFO | ============================================================
+2026-08-10 18:02:24,168 | INFO | ============================================================
+2026-08-10 18:02:24,169 | INFO | Iniciando extração: moeda=JPY, ano=2022
+2026-08-10 18:02:24,775 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:24,779 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:24,780 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:24,785 | INFO | Extração concluída
+2026-08-10 18:02:24,785 | INFO | Foram extraídos 1250 registros
+2026-08-10 18:02:24,785 | INFO | ============================================================
+2026-08-10 18:02:24,786 | INFO | ============================================================
+2026-08-10 18:02:24,786 | INFO | Iniciando extração: moeda=JPY, ano=2023
+2026-08-10 18:02:25,296 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:25,300 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:25,301 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:25,306 | INFO | Extração concluída
+2026-08-10 18:02:25,307 | INFO | Foram extraídos 1240 registros
+2026-08-10 18:02:25,307 | INFO | ============================================================
+2026-08-10 18:02:25,308 | INFO | ============================================================
+2026-08-10 18:02:25,308 | INFO | Iniciando extração: moeda=JPY, ano=2024
+2026-08-10 18:02:25,918 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:25,922 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:25,922 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:25,927 | INFO | Extração concluída
+2026-08-10 18:02:25,927 | INFO | Foram extraídos 1258 registros
+2026-08-10 18:02:25,927 | INFO | ============================================================
+2026-08-10 18:02:25,927 | INFO | ============================================================
+2026-08-10 18:02:25,927 | INFO | Iniciando extração: moeda=JPY, ano=2025
+2026-08-10 18:02:26,438 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:26,441 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:26,442 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:26,447 | INFO | Extração concluída
+2026-08-10 18:02:26,447 | INFO | Foram extraídos 1254 registros
+2026-08-10 18:02:26,447 | INFO | ============================================================
+2026-08-10 18:02:26,448 | INFO | ============================================================
+2026-08-10 18:02:26,448 | INFO | Iniciando extração: moeda=JPY, ano=2026
+2026-08-10 18:02:27,014 | INFO | Consulta feita com sucesso!
+2026-08-10 18:02:27,017 | INFO | Dataframe criado com sucesso
+2026-08-10 18:02:27,017 | INFO | Pasta criada com sucesso
+2026-08-10 18:02:27,021 | INFO | Extração concluída
+2026-08-10 18:02:27,022 | INFO | Foram extraídos 753 registros
+2026-08-10 18:02:27,022 | INFO | ============================================================
+2026-08-10 18:02:27,022 | INFO | ============================================================
+2026-08-10 18:02:27,022 | INFO | FIM DA EXTRAÇÃO PTAX
+2026-08-10 18:02:27,022 | INFO | ============================================================

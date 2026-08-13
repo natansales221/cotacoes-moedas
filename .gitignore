@@ -1,0 +1,23 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Variáveis de ambiente / segredos
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+logs/*.log
+
+# Banco local
+data/database/*.db
+
+# Arquivos temporários
+*.tmp
+
+# VS Code
+.vscode/

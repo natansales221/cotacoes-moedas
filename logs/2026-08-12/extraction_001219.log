@@ -1,0 +1,86 @@
+2026-08-12 00:12:19,492 | INFO | ============================================================
+2026-08-12 00:12:19,493 | INFO | INÍCIO DA EXTRAÇÃO PTAX
+2026-08-12 00:12:19,493 | INFO | Arquivo de log: logs\2026-08-12\extraction_001219.log
+2026-08-12 00:12:19,493 | INFO | ============================================================
+2026-08-12 00:12:19,494 | INFO | ============================================================
+2026-08-12 00:12:19,494 | INFO | Iniciando extração: moeda=AUD, ano=2000
+2026-08-12 00:12:20,252 | INFO | Consulta feita com sucesso!
+2026-08-12 00:12:20,268 | INFO | Dataframe criado com sucesso
+2026-08-12 00:12:20,269 | INFO | Pasta criada com sucesso
+2026-08-12 00:12:20,296 | INFO | Extração concluída
+2026-08-12 00:12:20,297 | INFO | Foram extraídos 4250 registros
+2026-08-12 00:12:20,297 | INFO | ============================================================
+2026-08-12 00:12:20,297 | INFO | ============================================================
+2026-08-12 00:12:20,297 | INFO | Iniciando extração: moeda=AUD, ano=2001
+2026-08-12 00:12:20,925 | INFO | Consulta feita com sucesso!
+2026-08-12 00:12:20,935 | INFO | Dataframe criado com sucesso
+2026-08-12 00:12:20,936 | INFO | Pasta criada com sucesso
+2026-08-12 00:12:20,951 | INFO | Extração concluída
+2026-08-12 00:12:20,952 | INFO | Foram extraídos 4090 registros
+2026-08-12 00:12:20,952 | INFO | ============================================================
+2026-08-12 00:12:20,952 | INFO | ============================================================
+2026-08-12 00:12:20,952 | INFO | Iniciando extração: moeda=AUD, ano=2002
+2026-08-12 00:12:21,695 | INFO | Consulta feita com sucesso!
+2026-08-12 00:12:21,705 | INFO | Dataframe criado com sucesso
+2026-08-12 00:12:21,706 | INFO | Pasta criada com sucesso
+2026-08-12 00:12:21,722 | INFO | Extração concluída
+2026-08-12 00:12:21,722 | INFO | Foram extraídos 4029 registros
+2026-08-12 00:12:21,723 | INFO | ============================================================
+2026-08-12 00:12:21,723 | INFO | ============================================================
+2026-08-12 00:12:21,723 | INFO | Iniciando extração: moeda=AUD, ano=2003
+2026-08-12 00:12:22,469 | INFO | Consulta feita com sucesso!
+2026-08-12 00:12:22,479 | INFO | Dataframe criado com sucesso
+2026-08-12 00:12:22,480 | INFO | Pasta criada com sucesso
+2026-08-12 00:12:22,495 | INFO | Extração concluída
+2026-08-12 00:12:22,496 | INFO | Foram extraídos 4025 registros
+2026-08-12 00:12:22,496 | INFO | ============================================================
+2026-08-12 00:12:22,496 | INFO | ============================================================
+2026-08-12 00:12:22,496 | INFO | Iniciando extração: moeda=AUD, ano=2004
+2026-08-12 00:12:23,215 | INFO | Consulta feita com sucesso!
+2026-08-12 00:12:23,225 | INFO | Dataframe criado com sucesso
+2026-08-12 00:12:23,226 | INFO | Pasta criada com sucesso
+2026-08-12 00:12:23,242 | INFO | Extração concluída
+2026-08-12 00:12:23,242 | INFO | Foram extraídos 3864 registros
+2026-08-12 00:12:23,242 | INFO | ============================================================
+2026-08-12 00:12:23,243 | INFO | ============================================================
+2026-08-12 00:12:23,243 | INFO | Iniciando extração: moeda=AUD, ano=2005
+2026-08-12 00:12:23,993 | INFO | Consulta feita com sucesso!
+2026-08-12 00:12:24,002 | INFO | Dataframe criado com sucesso
+2026-08-12 00:12:24,003 | INFO | Pasta criada com sucesso
+2026-08-12 00:12:24,017 | INFO | Extração concluída
+2026-08-12 00:12:24,017 | INFO | Foram extraídos 3631 registros
+2026-08-12 00:12:24,017 | INFO | ============================================================
+2026-08-12 00:12:24,017 | INFO | ============================================================
+2026-08-12 00:12:24,017 | INFO | Iniciando extração: moeda=AUD, ano=2006
+2026-08-12 00:12:24,648 | INFO | Consulta feita com sucesso!
+2026-08-12 00:12:24,659 | INFO | Dataframe criado com sucesso
+2026-08-12 00:12:24,660 | INFO | Pasta criada com sucesso
+2026-08-12 00:12:24,675 | INFO | Extração concluída
+2026-08-12 00:12:24,675 | INFO | Foram extraídos 4128 registros
+2026-08-12 00:12:24,676 | INFO | ============================================================
+2026-08-12 00:12:24,676 | INFO | ============================================================
+2026-08-12 00:12:24,676 | INFO | Iniciando extração: moeda=AUD, ano=2007
+2026-08-12 00:12:25,324 | INFO | Consulta feita com sucesso!
+2026-08-12 00:12:25,334 | INFO | Dataframe criado com sucesso
+2026-08-12 00:12:25,335 | INFO | Pasta criada com sucesso
+2026-08-12 00:12:25,349 | INFO | Extração concluída
+2026-08-12 00:12:25,350 | INFO | Foram extraídos 3685 registros
+2026-08-12 00:12:25,350 | INFO | ============================================================
+2026-08-12 00:12:25,350 | INFO | ============================================================
+2026-08-12 00:12:25,350 | INFO | Iniciando extração: moeda=AUD, ano=2008
+2026-08-12 00:12:26,154 | INFO | Consulta feita com sucesso!
+2026-08-12 00:12:26,164 | INFO | Dataframe criado com sucesso
+2026-08-12 00:12:26,165 | INFO | Pasta criada com sucesso
+2026-08-12 00:12:26,182 | INFO | Extração concluída
+2026-08-12 00:12:26,183 | INFO | Foram extraídos 4292 registros
+2026-08-12 00:12:26,183 | INFO | ============================================================
+2026-08-12 00:12:26,183 | INFO | ============================================================
+2026-08-12 00:12:26,183 | INFO | Iniciando extração: moeda=AUD, ano=2009
+2026-08-12 00:12:26,905 | INFO | Consulta feita com sucesso!
+2026-08-12 00:12:26,916 | INFO | Dataframe criado com sucesso
+2026-08-12 00:12:26,917 | INFO | Pasta criada com sucesso
+2026-08-12 00:12:26,933 | INFO | Extração concluída
+2026-08-12 00:12:26,933 | INFO | Foram extraídos 4224 registros
+2026-08-12 00:12:26,934 | INFO | ============================================================
+2026-08-12 00:12:26,934 | INFO | ============================================================
+2026-08-12 00:12:26,934 | INFO | Iniciando extração: moeda=AUD, ano=2010
