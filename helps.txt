@@ -1,10 +1,73 @@
-CREATE TABLE IF NOT EXISTS raw_ptax (
+CREATE TABLE IF NOT EXISTS currency (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     moeda TEXT NOT NULL,
     cotacao_compra REAL,
     cotacao_venda REAL,
-    data_hora_cotacao TEXT,
-    tipo_boletim TEXT,
-    arquivo_origem TEXT NOT NULL,
-    data_carga TEXT NOT NULL
-);
+    dt_cotacao TEXT,
+    hr_cotacao TEXT,
+    tp_boletim TEXT,
+    dt_carga TEXT,
+    record_hash TEXT NOT NULL UNIQUE
+)
+
+CREATE TABLE fact_cotacao_diaria AS
+SELECT
+    moeda,
+    dt_cotacao,
+    cotacao_compra,
+    cotacao_venda,
+    ROUND(
+        (cotacao_compra + cotacao_venda) / 2,
+        6
+    ) AS cotacao_media,
+    ROUND(
+        cotacao_venda - cotacao_compra,
+        6
+    ) AS spread
+FROM currency
+WHERE tp_boletim = 'Fechamento'
+ORDER BY moeda, dt_cotacao;
+
+
+
+CREATE VIEW IF NOT EXISTS vw_variacao_diaria AS
+
+WITH cotacao_anterior AS (
+    SELECT
+        moeda,
+        dt_cotacao,
+        cotacao_compra,
+        cotacao_venda,
+        cotacao_media,
+        spread,
+
+        LAG(cotacao_media) OVER (
+            PARTITION BY moeda
+            ORDER BY dt_cotacao
+        ) AS cotacao_media_anterior
+
+    FROM fact_cotacao_diaria
+)
+
+SELECT
+    moeda,
+    dt_cotacao,
+    cotacao_compra,
+    cotacao_venda,
+    cotacao_media,
+    spread,
+    cotacao_media_anterior,
+
+    ROUND(
+        (
+            (cotacao_media - cotacao_media_anterior)
+            / cotacao_media_anterior
+        ) * 100,
+        4
+    ) AS variacao_percentual
+
+FROM cotacao_anterior;
+
+
+
+    registros = list(df_load.itertuples(index=False,name=None))
